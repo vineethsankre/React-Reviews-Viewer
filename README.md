@@ -42,29 +42,6 @@ The app must have the following functionalities
 
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
-
-  ```
-    cursor: pointer;
-  ```
-
-  <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
-
-- You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
-
-  ```
-    outline: none;
-  ```
-
-</details>
-
 ### Resources
 
 <details>
