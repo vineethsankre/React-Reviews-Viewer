@@ -49,7 +49,6 @@ The app must have the following functionalities
 Use these files to complete the implementation:
 
 - `src/components/ReviewsCarousel/index.js`
-- `src/components/ReviewsCarousel/index.css`
 </details>
 
 ### Quick Tips
