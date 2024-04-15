@@ -53,7 +53,7 @@ The app must have the following functionalities
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>Implementation</summary>
 <br/>
 
 Use these files to complete the implementation:
