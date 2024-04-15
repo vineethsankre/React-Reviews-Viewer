@@ -42,13 +42,6 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Implementation</summary>
-<br/>
-
-Use these files to complete the implementation:
-</details>
-
 ### Quick Tips
 
 <details>
