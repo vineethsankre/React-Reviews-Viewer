@@ -110,15 +110,6 @@ Use these files to complete the implementation:
 
 </details>
 
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #171f46 ; width: 150px; padding: 10px; color: white">Hex: #171f46</div>
-
-</details>
 
 
 
