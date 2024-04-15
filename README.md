@@ -85,20 +85,6 @@ Use these files to complete the implementation:
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The button to check the previous review should have the data-testid attribute with value as **leftArrow**
-- The button to check the next review should have the data-testid attribute with value as **rightArrow**
-- The profile images should have the alt as the value of the key `username` from each review object provided
-</details>
-
 ### Resources
 
 <details>
