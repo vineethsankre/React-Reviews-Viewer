@@ -27,7 +27,7 @@ class ReviewsCarousel extends Component {
       <div className="app-container">
         <h1 className="heading">Reviews</h1>
         <img src={imgUrl} className="user-image" alt={username} />
-        <div className="arrows-container">
+        <div className="carousel-container">
           <button
             data-testid="leftArrow"
             type="button"
